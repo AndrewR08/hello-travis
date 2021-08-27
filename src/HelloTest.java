@@ -35,7 +35,7 @@ public class HelloTest {
 		
 		// Prep done, call function of interest
 		String[] sarray = new String[1];
-		sarray[0] = new String("Jayne");
+		sarray[0] = new String("Jayn");
 		Hello.main(sarray);
 		
 		// Restore the stdout stream
